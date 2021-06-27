@@ -1,0 +1,5 @@
+json
+discord
+requests
+commands
+discord.ext
